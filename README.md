@@ -23,6 +23,7 @@ export ECHOBOT_API_TOKEN=***
 ```
 
 ```sh
+source .venv/bin/activate
 python echobot.py
 ```
 
